@@ -1,0 +1,25 @@
+/* style.css */
+
+/* Set the background of the <body> element to #00b3e6 (light blue) */
+body {
+    background-color: #00b3e6;
+}
+
+/* Set the <div> elements */
+div {
+    width: 700px;
+    margin: auto;
+    font-family: "Helvetica Neue";
+    background-color: white;
+    padding: 30px;
+}
+
+/* Set the element with the id of #main-header to a font-size of 22px */
+#main-header {
+    font-size: 22px;
+}
+
+/* Set the elements with the class of .perspective-questions to a font-style of italic */
+.perspective-questions {
+    font-style: italic;
+}
